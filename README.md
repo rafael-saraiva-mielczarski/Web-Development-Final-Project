@@ -9,7 +9,7 @@
 
 -O projeto foi todo feito no Visual Studio Code
 -Extensões do VSCode necessárias instaladas:
-  /n"ms-python"
+  \n"ms-python"
   "Django Template"
   "Python for VSCode"
   "Djaneiro"
