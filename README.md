@@ -7,13 +7,13 @@
 
 # Pré-requisitos para rodar o código
 
--O projeto foi todo feito no Visual Studio Code
--Extensões do VSCode necessárias instaladas:
+- O projeto foi todo feito no Visual Studio Code
+- Extensões do VSCode necessárias instaladas:
   
-  -"ms-python"
-  -"Django Template"
-  -"Python for VSCode"
-  -"Djaneiro"
+  "ms-python"
+  "Django Template"
+  "Python for VSCode"
+  "Djaneiro"
  
- -Banco de dados usado foi o PostgreSQL
- -MiniConda foi utilizado no ambiente virtual
+ - Banco de dados usado foi o PostgreSQL
+ - MiniConda foi utilizado no ambiente virtual
